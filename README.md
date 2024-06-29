@@ -9,8 +9,8 @@ Introducing the 'Faction Event Manager' script for FiveM, designed to facilitate
 ---
 ### Requirements
 
-[aky_lib](https://github.com/filyx0/aky_lib)
-ESX
+[aky_lib](https://github.com/filyx0/aky_lib)<br>
+ESX<br>
 [ox_lib](https://github.com/overextended/ox_lib) (Optional)
 
 ---
