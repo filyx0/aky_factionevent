@@ -14,11 +14,6 @@ config.blips = {
     },
 }
 
-config.blip = {
-    type = 0,
-    color = 0,
-}
-
 function GetTranslation(key)
     local lang = locale or 'en'
     local langFilePath = 'locales/' .. lang .. '.lua'
