@@ -1,5 +1,5 @@
 # AKY
-## faction Event Manager
+## Faction Event Manager
 
 
 [Preview](https://youtu.be/xf8qJHgDJ0I)
